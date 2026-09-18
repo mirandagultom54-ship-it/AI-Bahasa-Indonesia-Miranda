@@ -1,0 +1,55 @@
+Morfem bebas dan morfem terikat.
+
+PENGERTIAN MORFEM
+
+Morfem adalah satuan bahasa terkecil yang memiliki makna atau fungsi gramatikal. Morfem tidak dapat dibagi lagi menjadi bagian yang lebih kecil apabila pembagian tersebut menyebabkan hilangnya makna atau fungsi yang dimilikinya. Dalam bahasa Indonesia, morfem dapat berbentuk kata yang dapat berdiri sendiri maupun bagian kata yang harus bergabung dengan bentuk lain. Berdasarkan kemampuannya untuk berdiri sendiri, morfem dibedakan menjadi morfem bebas dan morfem terikat.
+
+MORFEM BEBAS
+
+Morfem bebas adalah morfem yang dapat berdiri sendiri sebagai sebuah kata dan memiliki makna tanpa harus digabungkan dengan morfem lain. Dengan kata lain, morfem bebas dapat digunakan secara mandiri dalam sebuah kalimat. Contohnya adalah kata “rumah”, “buku”, “makan”, “jalan”, “besar”, dan “saya”. Kata-kata tersebut dapat berdiri sendiri dan tetap mempunyai makna.
+
+Contohnya dalam kalimat “Saya membaca buku.” Kata “saya” dan “buku” merupakan morfem bebas karena keduanya dapat berdiri sendiri sebagai kata. Demikian juga kata “makan” dalam kalimat “Adik makan nasi.” Kata “makan” dapat digunakan tanpa harus mendapatkan tambahan bentuk lain.
+
+MORFEM TERIKAT
+
+Morfem terikat adalah morfem yang tidak dapat berdiri sendiri sebagai kata dan harus bergabung dengan morfem lain agar dapat digunakan dalam bahasa. Morfem terikat biasanya berupa imbuhan atau afiks. Dalam bahasa Indonesia, contoh morfem terikat antara lain “meN-”, “ber-”, “ter-”, “di-”, “ke-an”, “peN-”, “-kan”, dan “-i”. Bentuk-bentuk tersebut tidak dapat digunakan secara bebas seperti kata “buku” atau “rumah”.
+
+Sebagai contoh, bentuk “ber-” tidak dapat berdiri sendiri dalam kalimat. Bentuk tersebut harus bergabung dengan morfem lain, seperti pada kata “berjalan”, “bermain”, dan “bekerja”. Dalam kata “berjalan”, morfem “ber-” merupakan morfem terikat, sedangkan “jalan” merupakan morfem bebas.
+
+CONTOH MORFEM BEBAS DAN MORFEM TERIKAT
+
+Kata “bermain” dapat dianalisis menjadi “ber-” dan “main”. Bentuk “ber-” merupakan morfem terikat karena tidak dapat berdiri sendiri, sedangkan “main” merupakan morfem bebas karena dapat berdiri sendiri dan memiliki makna. Kata “membaca” dapat dianalisis menjadi “mem-” dan “baca”. Bentuk “mem-” merupakan morfem terikat, sedangkan “baca” merupakan morfem bebas. Kata “rumah” hanya terdiri atas satu morfem bebas karena dapat berdiri sendiri dan tidak perlu mendapatkan tambahan morfem untuk memiliki makna.
+
+BENTUK MORFEM TERIKAT DALAM BAHASA INDONESIA
+
+Morfem terikat dalam bahasa Indonesia banyak ditemukan dalam bentuk afiks atau imbuhan. Afiks dapat berupa prefiks, sufiks, infiks, dan konfiks. Prefiks adalah imbuhan yang berada di awal kata, seperti “ber-” pada kata “berjalan” dan “meN-” pada kata “menulis”. Sufiks adalah imbuhan yang berada di akhir kata, seperti “-kan” pada kata “bacakan” dan “-i” pada kata “garami”. Infiks adalah imbuhan yang disisipkan ke dalam bentuk dasar, misalnya “-el-” pada kata “telunjuk”. Konfiks adalah imbuhan yang terdiri atas dua bagian yang mengapit bentuk dasar, seperti “ke-an” pada kata “kebaikan” dan “per-an” pada kata “perjalanan”.
+
+MORFEM BEBAS DALAM KATA BERIMBUHAN
+
+Dalam kata berimbuhan, morfem bebas biasanya menjadi bentuk dasar yang kemudian mendapatkan tambahan morfem terikat. Contohnya pada kata “menulis”, bentuk “tulis” merupakan morfem bebas, sedangkan “meN-” merupakan morfem terikat. Pada kata “bersepeda”, bentuk “sepeda” merupakan morfem bebas dan “ber-” merupakan morfem terikat. Pada kata “kebaikan”, bentuk “baik” merupakan morfem bebas, sedangkan “ke-an” merupakan morfem terikat.
+
+PERBEDAAN MORFEM BEBAS DAN MORFEM TERIKAT
+
+Perbedaan utama morfem bebas dan morfem terikat terletak pada kemampuannya untuk berdiri sendiri. Morfem bebas dapat berdiri sendiri sebagai kata dan tetap memiliki makna, sedangkan morfem terikat tidak dapat berdiri sendiri dan harus bergabung dengan morfem lain. Contohnya, “buku” merupakan morfem bebas karena dapat digunakan sebagai kata secara mandiri, sedangkan “ber-” merupakan morfem terikat karena tidak dapat digunakan sebagai kata secara mandiri.
+
+CARA MENENTUKAN MORFEM BEBAS DAN MORFEM TERIKAT
+
+Untuk menentukan apakah suatu bentuk termasuk morfem bebas atau morfem terikat, perhatikan apakah bentuk tersebut dapat berdiri sendiri sebagai kata. Jika dapat berdiri sendiri dan memiliki makna, bentuk tersebut dapat dikategorikan sebagai morfem bebas. Jika tidak dapat berdiri sendiri dan harus melekat pada bentuk lain, bentuk tersebut merupakan morfem terikat.
+
+Sebagai contoh, kata “pelajar” dapat dianalisis dengan memperhatikan bentuk yang membangunnya. Bentuk “ajar” dapat berdiri sendiri sebagai kata, sedangkan “pel-” dalam pembentukan tertentu tidak digunakan secara mandiri. Oleh karena itu, analisis morfem perlu memperhatikan proses pembentukan katanya dan tidak hanya melihat apakah suatu bagian kata tampak seperti kata biasa.
+
+CONTOH ANALISIS
+
+Kata “berjalan” terdiri atas morfem “ber-” dan “jalan”. Morfem “ber-” merupakan morfem terikat karena tidak dapat berdiri sendiri, sedangkan “jalan” merupakan morfem bebas karena dapat digunakan sebagai kata. Kata “menulis” terdiri atas morfem “meN-” dan “tulis”. Morfem “meN-” merupakan morfem terikat, sedangkan “tulis” merupakan morfem bebas. Kata “kebaikan” terdiri atas morfem “ke-an” dan “baik”. Morfem “ke-an” merupakan morfem terikat, sedangkan “baik” merupakan morfem bebas.
+
+HUBUNGAN MORFEM BEBAS DAN MORFEM TERIKAT
+
+Morfem bebas dan morfem terikat dapat membentuk kata melalui proses morfologis. Morfem terikat dapat memberikan makna tambahan atau mengubah fungsi gramatikal morfem bebas. Misalnya, kata “ajar” dapat membentuk “mengajar”, “pelajar”, “pengajaran”, dan “pelajaran” melalui proses pembentukan kata tertentu. Dengan demikian, morfem terikat mempunyai peranan penting dalam pembentukan kosakata bahasa Indonesia.
+
+KESALAHAN YANG SERING TERJADI
+
+Kesalahan yang sering terjadi adalah menganggap semua bagian kata sebagai morfem. Padahal, tidak semua bagian kata dapat dipisahkan menjadi morfem yang memiliki makna atau fungsi. Kesalahan lainnya adalah menganggap setiap imbuhan sebagai kata. Imbuhan seperti “ber-”, “ter-”, dan “di-” tidak dapat digunakan secara mandiri sehingga termasuk morfem terikat. Dalam menganalisis morfem, bentuk kata harus diperhatikan secara keseluruhan dan pembagiannya harus didasarkan pada fungsi serta maknanya.
+
+MANFAAT MEMPELAJARI MORFEM BEBAS DAN MORFEM TERIKAT
+
+Mempelajari morfem bebas dan morfem terikat membantu memahami bagaimana kata dalam bahasa Indonesia dibentuk. Pengetahuan ini juga berguna untuk mempelajari afiksasi, reduplikasi, pemajemukan, perubahan bentuk kata, serta makna gramatikal. Bagi siswa, pemahaman tentang morfem dapat membantu mereka mengenali bentuk dasar dan imbuhan dalam sebuah kata sehingga lebih mudah memahami struktur dan makna kata.

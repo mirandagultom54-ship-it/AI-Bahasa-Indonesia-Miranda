@@ -1,0 +1,61 @@
+Morfologi
+
+A. Hakikat Morfologi
+
+Morfologi adalah cabang ilmu linguistik yang mengkaji seluk-beluk bentuk kata serta pengaruh perubahan bentuk kata terhadap golongan (kelas kata) dan makna kata. Secara etimologis, kata "morfologi" berasal dari bahasa Yunani, yaitu "morphe" yang berarti "bentuk" dan "logos" yang berarti "ilmu", sehingga secara harfiah morfologi berarti ilmu tentang bentuk. Dalam konteks linguistik, morfologi mempelajari struktur internal kata, proses pembentukan kata, serta bagaimana perubahan bentuk suatu kata dapat memengaruhi kategori gramatikal maupun makna kata tersebut. Morfologi menempati posisi yang berada di antara fonologi (kajian bunyi) dan sintaksis (kajian struktur kalimat), karena morfologi menjadikan satuan bunyi sebagai bahan pembentuk kata, sekaligus menyediakan satuan kata yang kemudian disusun menjadi frasa dan kalimat dalam kajian sintaksis.
+
+B. Morfem sebagai Satuan Dasar Morfologi
+
+Satuan gramatikal terkecil yang menjadi objek kajian morfologi disebut morfem, yaitu satuan bahasa terkecil yang memiliki makna dan tidak dapat dibagi lagi menjadi bagian bermakna yang lebih kecil. Sebagai contoh, kata "berjalan" terdiri atas dua morfem, yaitu morfem "ber-" dan morfem "jalan", karena masing-masing bagian tersebut masih memiliki makna dan fungsi gramatikalnya sendiri, sementara kata "jalan" itu sendiri tidak dapat dibagi lagi menjadi satuan bermakna yang lebih kecil.
+
+Morfem dapat diklasifikasikan berdasarkan beberapa kriteria. Berdasarkan kemampuannya berdiri sendiri, morfem dibedakan menjadi morfem bebas dan morfem terikat. Morfem bebas adalah morfem yang dapat berdiri sendiri sebagai sebuah kata tanpa harus bergabung dengan morfem lain, seperti "makan", "buku", "rumah", dan "pergi". Morfem terikat adalah morfem yang tidak dapat berdiri sendiri dan harus selalu melekat pada morfem lain untuk dapat digunakan dalam kalimat, seperti awalan "me-", "ber-", "di-", "ter-", "pe-", "ke-"; akhiran "-kan", "-i", "-an", "-nya"; sisipan "-el-", "-em-", "-er-"; serta bentuk terikat lain seperti "juang" dalam "berjuang" dan "pungkir" dalam "mungkir". Berdasarkan keutuhannya, morfem dibedakan menjadi morfem utuh, yaitu morfem yang tidak terbagi menjadi dua bagian atau lebih dan hadir sebagai satu kesatuan, seperti "buku" dan "meja", serta morfem terbagi, yaitu morfem yang unsurnya terpisah oleh unsur lain di tengahnya, seperti konfiks "ke-...-an" pada kata "kebaikan", di mana morfem "ke-an" tetap dianggap sebagai satu morfem meskipun terpisah oleh morfem dasar "baik" di tengahnya.
+
+Perlu dibedakan pula antara morfem dan alomorf, yaitu variasi bentuk dari morfem yang sama akibat pengaruh lingkungan fonologis di sekitarnya, namun tetap memiliki makna dan fungsi gramatikal yang identik. Sebagai contoh, morfem "me-" memiliki beberapa alomorf, yaitu "me-" pada "melihat", "mem-" pada "membaca", "men-" pada "menulis", "meng-" pada "mengambil", "meny-" pada "menyapu", dan "menge-" pada "mengebom", yang semuanya merupakan alomorf dari morfem yang sama, yaitu prefiks "me-", dan pemilihan alomorf tersebut ditentukan oleh bunyi awal kata dasar yang mengikutinya.
+
+C. Proses Morfologis
+
+Proses morfologis adalah proses pembentukan kata dari bentuk dasar melalui berbagai cara, yang dalam bahasa Indonesia dapat dikelompokkan menjadi empat proses utama, yaitu afiksasi, reduplikasi, pemajemukan, dan konversi.
+
+1. Afiksasi (Pengimbuhan)
+
+Afiksasi adalah proses pembentukan kata dengan cara menambahkan afiks atau imbuhan pada bentuk dasar. Afiks dalam bahasa Indonesia dapat dibedakan berdasarkan posisi perlekatannya menjadi empat jenis.
+
+Prefiks (awalan) adalah afiks yang melekat di depan bentuk dasar. Prefiks dalam bahasa Indonesia meliputi "me-" yang berfungsi membentuk kata kerja aktif, seperti "membaca" dan "menulis"; "ber-" yang berfungsi membentuk kata kerja yang menyatakan keadaan atau kegiatan, seperti "berlari" dan "bermain"; "di-" yang berfungsi membentuk kata kerja pasif, seperti "dibaca" dan "ditulis"; "ter-" yang berfungsi membentuk kata kerja yang menyatakan keadaan tidak sengaja, sudah selesai, atau superlatif, seperti "terjatuh", "terbaca", dan "terbaik"; "pe-" yang berfungsi membentuk kata benda yang menyatakan pelaku atau alat, seperti "penulis" dan "pemukul"; serta "ke-" yang berfungsi membentuk kata bilangan tingkat atau kata benda tertentu, seperti "kedua" dan "ketua".
+
+Infiks (sisipan) adalah afiks yang melekat di tengah bentuk dasar, yang dalam bahasa Indonesia jumlahnya terbatas dan sifatnya cenderung tidak produktif lagi untuk membentuk kata baru, meliputi "-el-" seperti pada "telunjuk" dari "tunjuk" dan "gelembung" dari "gembung"; "-em-" seperti pada "gemetar" dari "getar" dan "kemilau" dari "kilau"; serta "-er-" seperti pada "gerigi" dari "gigi" dan "seruling" dari "suling".
+
+Sufiks (akhiran) adalah afiks yang melekat di belakang bentuk dasar, meliputi "-kan" yang berfungsi membentuk kata kerja imperatif atau kausatif, seperti "ambilkan" dan "besarkan"; "-i" yang berfungsi membentuk kata kerja yang menyatakan tindakan berulang atau menyeluruh, seperti "tanami" dan "jauhi"; "-an" yang berfungsi membentuk kata benda, seperti "makanan" dan "tulisan"; serta "-nya" yang berfungsi sebagai penanda kepemilikan atau penekanan, seperti "bukunya" dan "sebenarnya".
+
+Konfiks adalah gabungan dua afiks yang melekat secara bersamaan pada bentuk dasar, baik di depan maupun di belakang, dan maknanya harus dipahami sebagai satu kesatuan yang tidak dapat dipisahkan, berbeda dengan gabungan afiks biasa yang maknanya masih dapat diuraikan secara terpisah. Contoh konfiks meliputi "ke-an" pada kata "kebersihan", yang bermakna "hal atau keadaan bersih" dan tidak dapat diuraikan menjadi "ke-" ditambah "bersihan"; serta "pe-an" pada kata "pendidikan", yang bermakna "proses atau hal mendidik".
+
+Proses afiksasi ini seringkali menimbulkan perubahan bentuk pada afiks maupun pada bentuk dasarnya, yang disebut sebagai morfofonemik. Perubahan morfofonemik yang paling menonjol dalam bahasa Indonesia terjadi pada prefiks "me-" dan "pe-" ketika bertemu dengan kata dasar yang berawalan konsonan /k/, /t/, /s/, dan /p/, di mana konsonan tersebut akan luluh dan digantikan oleh bunyi nasal yang sesuai. Sebagai contoh, "me-" + "kirim" menjadi "mengirim" (bukan "mengkirim"), "me-" + "tulis" menjadi "menulis" (bukan "mentulis"), "me-" + "sapu" menjadi "menyapu" (bukan "mensapu"), dan "me-" + "pukul" menjadi "memukul" (bukan "mempukul"). Namun, kaidah peluluhan ini tidak berlaku pada kata-kata serapan tertentu yang gugus konsonannya dipertahankan, sehingga penting untuk memahami pengecualian-pengecualian yang ada dalam kaidah morfofonemik ini.
+
+2. Reduplikasi (Pengulangan)
+
+Reduplikasi adalah proses pembentukan kata melalui pengulangan bentuk dasar, baik secara keseluruhan maupun sebagian, yang dapat disertai maupun tidak disertai perubahan bunyi. Berdasarkan jenisnya, reduplikasi dalam bahasa Indonesia dibedakan menjadi beberapa macam.
+
+Pengulangan utuh (seluruh) adalah pengulangan yang mengulang keseluruhan bentuk dasar tanpa ada perubahan, seperti "rumah-rumah", "meja-meja", dan "buku-buku", yang umumnya berfungsi menyatakan makna jamak atau banyak.
+
+Pengulangan sebagian adalah pengulangan yang hanya mengenai sebagian dari bentuk dasarnya, biasanya berupa pengulangan suku kata awal dengan pelemahan vokal menjadi /ə/ (e pepet), seperti "lelaki" dari "laki-laki" dan "leluhur" dari "luhur".
+
+Pengulangan berimbuhan adalah pengulangan yang disertai dengan proses afiksasi, sehingga bentuk ulang tersebut sekaligus mendapatkan imbuhan, seperti "bermain-main" yang merupakan hasil reduplikasi "main" disertai prefiks "ber-", dan "berjalan-jalan" yang merupakan hasil reduplikasi "jalan" disertai prefiks "ber-".
+
+Pengulangan dengan perubahan bunyi (dwilingga salin suara) adalah pengulangan yang disertai perubahan pada salah satu fonemnya, baik vokal maupun konsonan, seperti "sayur-mayur", "gerak-gerik", "bolak-balik", dan "warna-warni", yang biasanya menghasilkan makna yang lebih umum atau kolektif dibandingkan makna bentuk dasarnya.
+
+Fungsi semantis pengulangan dalam bahasa Indonesia sangat beragam, dapat menyatakan makna jamak (banyak), seperti "rumah-rumah"; makna beraneka macam, seperti "buah-buahan"; makna resiprokal atau saling, seperti "pukul-memukul"; makna intensitas atau frekuentif, seperti "menangis-nangis"; makna menyerupai, seperti "kuda-kudaan" dan "ibu-ibuan"; serta makna melakukan pekerjaan tanpa tujuan tertentu atau santai, seperti "jalan-jalan" dan "duduk-duduk".
+
+3. Pemajemukan (Komposisi)
+
+Pemajemukan adalah proses penggabungan dua morfem dasar atau lebih yang menghasilkan makna baru sebagai satu kesatuan, sehingga membentuk apa yang disebut kata majemuk. Ciri khas kata majemuk adalah keeratan hubungan gramatikal dan semantik antarunsurnya, sehingga makna keseluruhan kata majemuk tidak dapat ditafsirkan hanya dengan menjumlahkan makna masing-masing unsur pembentuknya secara terpisah. Sebagai contoh, kata majemuk "kambing hitam" tidak bermakna "kambing yang berwarna hitam" secara harfiah, melainkan bermakna "orang yang dipersalahkan atas suatu kesalahan yang bukan sepenuhnya kesalahannya", dan kata majemuk "meja hijau" tidak bermakna "meja yang berwarna hijau", melainkan bermakna "pengadilan". Ciri lain kata majemuk adalah unsur-unsurnya umumnya tidak dapat disisipi kata lain, sehingga "rumah sakit" tidak dapat disisipi menjadi "rumah yang sakit" tanpa mengubah maknanya secara total.
+
+4. Konversi (Transposisi)
+
+Konversi, atau yang juga disebut transposisi, adalah proses perubahan kelas kata suatu kata tanpa disertai perubahan bentuk, sehingga suatu kata dapat berfungsi sebagai kelas kata yang berbeda tergantung pada konteks kalimat yang menyertainya. Sebagai contoh, kata "cangkul" pada umumnya berkelas nomina yang merujuk pada nama alat pertanian, namun dalam kalimat "Petani itu cangkul tanah sawahnya sejak pagi", kata "cangkul" berfungsi sebagai verba yang bermakna "melakukan kegiatan mencangkul". Proses konversi ini menunjukkan bahwa kelas kata dalam bahasa Indonesia tidak selalu tetap dan dapat bersifat fleksibel bergantung pada fungsi sintaksisnya dalam kalimat.
+
+D. Jenis Kata Berdasarkan Proses Pembentukannya
+
+Berdasarkan proses morfologis yang dialaminya, kata dalam bahasa Indonesia dapat dikelompokkan menjadi beberapa jenis. Kata dasar adalah kata yang belum mengalami proses morfologis apa pun dan merupakan bentuk paling sederhana yang menjadi dasar pembentukan kata-kata lain, seperti "makan", "tulis", dan "jalan". Kata berimbuhan atau kata turunan adalah kata yang telah mengalami proses afiksasi dari bentuk dasarnya, seperti "memakan", "menulis", dan "berjalan". Kata ulang adalah kata yang terbentuk melalui proses reduplikasi, seperti "makan-makan" dan "jalan-jalan". Kata majemuk adalah kata yang terbentuk melalui proses pemajemukan atau penggabungan dua morfem dasar atau lebih, seperti "rumah sakit" dan "kambing hitam".
+
+E. Kaitan Morfologi dengan Kelas Kata
+
+Proses morfologis, khususnya afiksasi, memiliki peran penting dalam menentukan kelas kata suatu bentukan. Secara umum, kelas kata dalam bahasa Indonesia dibedakan menjadi empat kelas utama, yaitu nomina (kata benda), verba (kata kerja), adjektiva (kata sifat), dan adverbia (kata keterangan), di luar kelas kata tertutup seperti pronomina, numeralia, preposisi, konjungsi, interjeksi, dan artikula. Afiks tertentu memiliki kecenderungan membentuk kelas kata tertentu pula, misalnya prefiks "pe-" dan sufiks "-an" cenderung membentuk nomina, seperti "penulis" dan "tulisan"; prefiks "me-" dan "ber-" cenderung membentuk verba, seperti "menulis" dan "berlari"; sedangkan prefiks "ter-" dapat membentuk baik verba maupun adjektiva tergantung konteksnya, seperti "terjatuh" (verba) dan "terbaik" (adjektiva superlatif).

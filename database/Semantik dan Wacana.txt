@@ -1,0 +1,58 @@
+Semantik dan Wacana
+
+A. Hakikat Semantik
+
+Semantik adalah cabang ilmu linguistik yang mengkaji makna bahasa, baik makna kata, makna frasa, makna kalimat, maupun makna dalam konteks pemakaian yang lebih luas. Secara etimologis, kata "semantik" berasal dari bahasa Yunani "semantikos" yang berarti "penting" atau "berarti", yang berakar dari kata "sema" yang berarti "tanda". Semantik menempati posisi penting dalam kajian linguistik karena tanpa makna, bahasa hanya akan menjadi rangkaian bunyi atau huruf yang tidak memiliki fungsi komunikatif. Objek kajian semantik mencakup relasi antara bentuk kebahasaan (kata, frasa, kalimat) dengan hal yang ditunjuk atau diacunya, baik acuan tersebut berupa benda konkret, konsep abstrak, maupun peristiwa.
+
+B. Jenis-Jenis Makna Kata
+1. Makna Leksikal dan Makna Gramatikal
+
+Makna leksikal adalah makna kata yang sesuai dengan referennya sebagaimana tercantum dalam kamus, atau makna dasar suatu kata yang berdiri sendiri terlepas dari konteks kalimat atau proses gramatikal yang menyertainya. Sebagai contoh, kata "kepala" memiliki makna leksikal "bagian tubuh manusia yang terletak di atas leher, tempat otak berada". Makna gramatikal adalah makna yang timbul akibat proses gramatikal, seperti afiksasi, reduplikasi, atau penggunaan kata dalam konteks kalimat tertentu. Sebagai contoh, kata "kepala" yang sama dapat memperoleh makna gramatikal "pemimpin" ketika digunakan dalam frasa "kepala sekolah" atau "kepala desa", dan makna gramatikal "bagian yang paling depan atau utama" ketika digunakan dalam frasa "kepala berita".
+
+2. Makna Denotatif dan Makna Konotatif
+
+Makna denotatif adalah makna yang sebenarnya atau makna lugas yang sesuai dengan referen aslinya tanpa ada tambahan nilai rasa tertentu, bersifat objektif dan dapat diverifikasi secara faktual. Makna konotatif adalah makna tambahan yang muncul akibat adanya asosiasi nilai rasa tertentu, baik yang bersifat positif maupun negatif, yang melekat pada suatu kata selain makna dasarnya. Sebagai ilustrasi, kata "kurus" memiliki makna denotatif netral yang merujuk pada kondisi tubuh yang memiliki sedikit lemak, sedangkan kata "kerempeng" memiliki makna konotatif negatif meskipun merujuk pada referen fisik yang sama, dan kata "ramping" memiliki makna konotatif positif meskipun juga merujuk pada referen yang serupa. Perbedaan pilihan kata berdasarkan makna konotatif ini sangat penting diperhatikan, terutama dalam karya sastra dan tulisan persuasif, karena dapat memengaruhi kesan dan emosi pembaca terhadap suatu hal yang sama.
+
+3. Makna Kontekstual dan Makna Referensial
+
+Makna kontekstual adalah makna yang muncul akibat kaitan antara suatu ujaran dengan situasi atau konteks pemakaiannya, sehingga satu kata atau kalimat yang sama dapat memiliki makna yang berbeda tergantung pada konteks tempat, waktu, atau situasi komunikasi yang melingkupinya. Sebagai contoh, kalimat "Di sini panas sekali" dapat bermakna keluhan tentang suhu udara apabila diucapkan di ruangan tanpa pendingin, namun dapat pula bermakna sindiran tentang suasana yang tegang apabila diucapkan dalam konteks rapat yang penuh perdebatan. Makna referensial adalah makna yang berhubungan langsung dengan kenyataan atau acuan konkret di luar bahasa (referen), sehingga kata tersebut dapat ditunjuk keberadaannya secara nyata, seperti kata "meja" yang referennya adalah benda meja yang dapat dilihat dan disentuh secara fisik, berbeda dengan kata tugas seperti "dan" atau "atau" yang tidak memiliki referen di luar bahasa.
+
+C. Relasi Makna Antarkata
+
+Kajian semantik juga membahas hubungan makna yang terjadi antara satu kata dengan kata lainnya, yang dikenal sebagai relasi makna.
+
+Sinonim adalah relasi makna yang mirip atau sama antara dua kata atau lebih meskipun bentuknya berbeda, seperti "pintar" dan "cerdas", atau "meninggal" dan "wafat". Perlu dicatat bahwa sinonim yang benar-benar identik maknanya (sinonim mutlak) sangat jarang ditemukan, karena kata-kata yang bersinonim biasanya tetap memiliki perbedaan nuansa makna, tingkat formalitas, atau konteks pemakaian, misalnya "mati", "meninggal", dan "wafat" memiliki makna dasar yang sama namun berbeda tingkat kesantunan dan konteks penggunaannya.
+
+Antonim adalah relasi makna yang berlawanan atau berkebalikan antara dua kata, seperti "besar" dan "kecil", "tinggi" dan "rendah", atau "hidup" dan "mati". Antonim dapat dibedakan menjadi antonim mutlak yang bersifat mutlak berlawanan tanpa gradasi seperti "hidup" dan "mati", serta antonim bergradasi yang memiliki tingkatan di antaranya seperti "panas", "hangat", "sejuk", dan "dingin".
+
+Homonim adalah dua kata atau lebih yang memiliki bentuk tulisan dan ucapan yang sama namun maknanya berbeda karena berasal dari sumber atau etimologi yang berbeda pula, seperti kata "bisa" yang dapat bermakna "mampu" atau "racun ular", dan kata "genting" yang dapat bermakna "atap rumah" atau "keadaan darurat".
+
+Homofon adalah kata-kata yang memiliki ucapan atau lafal yang sama namun tulisan dan maknanya berbeda, seperti "bank" (lembaga keuangan) dan "bang" (sapaan untuk kakak laki-laki), atau "sangsi" (ragu) dan "sanksi" (hukuman).
+
+Homograf adalah kata-kata yang memiliki tulisan yang sama namun ucapan dan maknanya berbeda, seperti kata "apel" yang dapat dibaca /apel/ bermakna buah, atau dibaca dengan tekanan berbeda bermakna upacara berkumpul, serta kata "teras" yang dapat bermakna "bagian rumah di depan" atau "bagian kayu yang keras di tengah batang".
+
+Polisemi adalah satu kata yang memiliki beberapa makna yang masih memiliki keterkaitan atau kemiripan secara konseptual, berbeda dari homonim yang maknanya sama sekali tidak berkaitan. Sebagai contoh, kata "kepala" merupakan polisemi karena maknanya sebagai "bagian tubuh" dan sebagai "pemimpin" masih memiliki keterkaitan konsep, yaitu sama-sama merujuk pada bagian yang berada di posisi atas atau terdepan.
+
+Hiponimi dan hipernim adalah relasi makna yang bersifat hierarkis, di mana hiponim adalah kata yang maknanya bersifat khusus dan merupakan bagian dari makna kata lain yang lebih umum, sedangkan hipernim adalah kata yang maknanya lebih umum dan mencakup makna kata-kata yang lebih khusus. Sebagai contoh, kata "mawar", "melati", dan "anggrek" merupakan hiponim dari kata "bunga" yang berkedudukan sebagai hipernim.
+
+D. Perubahan Makna
+
+Makna suatu kata dapat mengalami perubahan seiring berjalannya waktu, yang dikenal sebagai gejala perubahan makna. Perluasan makna adalah perubahan makna dari yang semula khusus menjadi lebih luas cakupannya, seperti kata "bapak" yang semula hanya bermakna "orang tua laki-laki" kini juga digunakan sebagai sapaan hormat kepada laki-laki dewasa secara umum. Penyempitan makna adalah perubahan makna dari yang semula umum menjadi lebih sempit atau khusus cakupannya, seperti kata "sarjana" yang semula bermakna "orang yang pandai atau cendekiawan" secara umum, kini menyempit menjadi khusus merujuk pada gelar akademik lulusan perguruan tinggi. Peninggian makna (ameliorasi) adalah perubahan makna yang menyebabkan makna baru dirasakan lebih baik, halus, atau terhormat dibandingkan makna lamanya, seperti kata "wanita" yang dianggap lebih halus dibandingkan kata "perempuan" dalam konteks tertentu. Penurunan makna (peyorasi) adalah perubahan makna yang menyebabkan makna baru dirasakan lebih rendah, kasar, atau kurang terhormat dibandingkan makna lamanya, seperti kata "gerombolan" yang kini cenderung berkonotasi negatif merujuk pada kelompok yang berbuat kejahatan. Sinestesia adalah perubahan makna akibat pertukaran tanggapan dua indra yang berbeda, seperti pada ungkapan "kata-katanya pedas" yang menggabungkan indra pengecap dengan indra pendengaran.
+
+E. Hakikat Wacana
+
+Wacana adalah satuan bahasa terlengkap yang berada di atas tataran kalimat, memiliki keterkaitan dan keterpaduan makna baik secara lisan maupun tulisan, dan disampaikan secara utuh untuk menyampaikan suatu gagasan atau pesan tertentu. Wacana dapat berupa satu kalimat yang berdiri sendiri, seperti slogan atau iklan singkat, maupun berupa rangkaian banyak kalimat yang membentuk sebuah teks, seperti artikel, cerpen, atau pidato. Yang membedakan wacana dari sekadar kumpulan kalimat yang berdiri sendiri-sendiri adalah adanya keterpaduan bentuk dan makna yang menjadikan rangkaian kalimat tersebut sebagai satu kesatuan yang koheren.
+
+F. Kohesi dan Koherensi dalam Wacana
+
+Dua unsur penting yang membangun keterpaduan sebuah wacana adalah kohesi dan koherensi.
+
+Kohesi adalah keterpaduan bentuk atau kepaduan gramatikal dan leksikal antarkalimat dalam wacana, yang dapat dicapai melalui beberapa piranti kohesi. Piranti referensi (pengacuan) adalah penggunaan kata ganti untuk merujuk pada unsur lain dalam wacana, baik pengacuan yang merujuk pada unsur sebelumnya (anafora) seperti "Ani pergi ke pasar. Ia membeli banyak sayuran," di mana kata "ia" merujuk pada "Ani" yang telah disebutkan sebelumnya, maupun pengacuan yang merujuk pada unsur sesudahnya (katafora). Piranti substitusi adalah penggantian suatu unsur dengan unsur lain yang memiliki makna sama untuk menghindari pengulangan. Piranti elipsis (pelesapan) adalah penghilangan suatu unsur yang sudah dapat dipahami dari konteks sebelumnya, seperti pada kalimat "Ali membaca buku, Budi juga [membaca buku]," di mana bagian dalam kurung dilesapkan karena sudah dapat dipahami. Piranti konjungsi adalah penggunaan kata hubung untuk menyatakan hubungan logis antarkalimat, seperti "karena itu" dan "selanjutnya". Piranti leksikal adalah kepaduan yang dicapai melalui pengulangan kata kunci (repetisi), penggunaan sinonim, atau penggunaan kata yang berkaitan secara semantis (kolokasi) antarkalimat dalam wacana.
+
+Koherensi adalah keterpaduan makna atau kepaduan isi antarkalimat dalam wacana, sehingga meskipun secara gramatikal tidak selalu terhubung secara eksplisit melalui piranti kohesi, kalimat-kalimat tersebut tetap dapat dipahami pembaca sebagai satu kesatuan gagasan yang logis dan runtut. Sebuah wacana dapat saja memiliki kohesi yang lemah namun tetap koheren apabila pembaca dapat menangkap keterkaitan makna antarkalimat berdasarkan pengetahuan dan konteks bersama, sebaliknya sebuah wacana dapat memiliki kohesi gramatikal yang rapi namun tidak koheren apabila isi antarkalimatnya tidak memiliki keterkaitan logis satu sama lain.
+
+G. Jenis-Jenis Wacana
+
+Berdasarkan cara penyampaiannya, wacana dibedakan menjadi wacana lisan, yaitu wacana yang disampaikan melalui bahasa lisan seperti pidato dan percakapan, serta wacana tulis, yaitu wacana yang disampaikan melalui bahasa tulis seperti artikel dan surat.
+
+Berdasarkan tujuan atau bentuk penyajiannya, wacana dibedakan menjadi lima jenis. Wacana narasi adalah wacana yang menceritakan suatu peristiwa atau rangkaian kejadian secara kronologis, biasa ditemukan dalam cerpen dan novel. Wacana deskripsi adalah wacana yang menggambarkan suatu objek, tempat, atau suasana secara terperinci sehingga pembaca seolah dapat melihat, mendengar, atau merasakan objek tersebut secara langsung. Wacana eksposisi adalah wacana yang memaparkan informasi, pengetahuan, atau penjelasan mengenai suatu topik secara objektif dan sistematis, biasa ditemukan dalam artikel ilmiah dan buku pelajaran. Wacana argumentasi adalah wacana yang mengemukakan pendapat disertai alasan, bukti, dan data untuk meyakinkan pembaca akan kebenaran suatu pandangan, biasa ditemukan dalam esai dan karya ilmiah. Wacana persuasi adalah wacana yang bertujuan memengaruhi sikap, pandangan, atau tindakan pembaca atau pendengar, biasa ditemukan dalam iklan dan pidato kampanye.
