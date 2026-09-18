@@ -9,7 +9,7 @@ from collections import Counter
 # =========================================================
 
 st.set_page_config(
-    page_title="AI Tutor Bahasa Indonesia Miranda Gultom",
+    page_title="AI Tutor Bahasa Indonesia Miranda",
     page_icon="📚",
     layout="wide"
 )
@@ -304,7 +304,7 @@ database = baca_database()
 # HEADER APLIKASI
 # =========================================================
 
-st.title("📚 AI Tutor Bahasa Indonesia")
+st.title("📚 AI Tutor Bahasa Indonesia Miranda")
 
 st.write(
     "Sistem pembelajaran berbasis Python, "
